@@ -1,0 +1,21 @@
+body{
+	text-align:center;
+}
+
+#slide{
+	width:600px;
+	border:1px solid black;
+}
+
+#nav{
+	width:500px;
+	margin:20px auto
+}
+
+#previous{
+	float:left;
+}
+
+#next{
+	float:right;
+}

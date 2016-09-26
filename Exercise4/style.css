@@ -1,0 +1,24 @@
+p{
+	display:block;
+	margin:auto;
+	padding:8px;
+	width:400px;
+	text-align:justify;
+	text-justify:inter-word;
+	border:3px solid #000;
+}
+
+table{
+	margin:20px auto;
+}
+
+th{
+	padding-top:25px;
+	padding-bottom:5px;
+}
+
+#buttoncell{
+	text-align:center;
+	padding:20px;
+}
+
